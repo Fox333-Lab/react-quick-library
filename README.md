@@ -53,7 +53,7 @@ react-quick-library
 | Package Description | Description for the package/library         |
 | Author Name         | Name of the author ( of course its you 😆 ) |
 | Email               | Email id of the author                      |
-| GitHub Handle       | GitHubub account username                   |
+| GitHub Handle       | GitHub account username                     |
 | GitHub Repo         | GitHub Repository for this project          |
 
 <br />
