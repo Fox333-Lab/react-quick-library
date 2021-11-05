@@ -137,7 +137,7 @@ async function promptForMissingOptions(options) {
     });
   }
 
-  console.log("\n");
+  //console.log("\n");
   const answers = await inquirer.prompt(questions);
 
   return {
