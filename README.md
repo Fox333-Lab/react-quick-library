@@ -20,7 +20,7 @@ A simple and easy to use CLI to bootstrap reusable react component library or pa
 <br />
 
 ```sh
-npm i -g react-quick-library
+npm i -g @fox333-lab/react-quick-library
 ```
 
 <br />
@@ -32,7 +32,7 @@ npm i -g react-quick-library
 ```sh
 #using npx:
 
-npx react-quick-library
+npx  @fox333-lab/react-quick-library
 ```
 
 or
