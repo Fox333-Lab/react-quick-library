@@ -32,7 +32,7 @@ npm i -g @fox333-lab/react-quick-library
 ```sh
 #using npx:
 
-npx  @fox333-lab/react-quick-library
+npx @fox333-lab/react-quick-library
 ```
 
 or
